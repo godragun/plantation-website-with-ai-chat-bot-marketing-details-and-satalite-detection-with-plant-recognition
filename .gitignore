@@ -1,0 +1,39 @@
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+backend/venv/
+.venv/
+
+# Environment variables / secrets — never commit
+.env
+.env.*
+!.env.example
+backend/.env
+functions/.env
+**/credentials*.json
+**/serviceAccount*.json
+**/*api_key*
+**/*apikey*
+
+# Databases and uploads
+*.db
+backend/uploads/
+uploads/
+
+# Node/JS
+frontend/node_modules/
+
+# Editor settings
+.vscode/
+.idea/
+

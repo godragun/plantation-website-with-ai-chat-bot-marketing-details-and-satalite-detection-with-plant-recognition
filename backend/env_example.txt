@@ -1,0 +1,7 @@
+# Copy this file to backend/.env and fill in real values.
+# Never commit .env files or real API keys.
+
+SECRET_KEY=generate-a-long-random-string
+GEMINI_API_KEY=
+OPENWEATHER_API_KEY=
+ALPHA_VANTAGE_API_KEY=

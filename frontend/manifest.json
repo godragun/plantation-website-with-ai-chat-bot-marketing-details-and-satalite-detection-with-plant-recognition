@@ -1,0 +1,20 @@
+{
+  "name": "AgriVista",
+  "short_name": "AgriVista",
+  "description": "AI-assisted plantation management for farmers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7f2",
+  "theme_color": "#1b4332",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/crops/tea.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "categories": ["agriculture", "productivity", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
